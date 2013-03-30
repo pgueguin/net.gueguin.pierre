@@ -6,8 +6,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
-        <meta name="description" content="">
+        <title>Laurent Cottereau</title>
+        <meta name="description" content="Page personnelle de Laurent Cottereau">
         <meta name="viewport" content="width=device-width">
 
         <link rel="stylesheet" href="css/normalize.min.css">
@@ -22,7 +22,7 @@
 
         <div class="header-container">
             <header class="wrapper clearfix">
-                <h1 class="title">h1.title</h1>
+                <h1 class="title">Laurent Cottereau</h1>
                 <nav>
                     <ul>
                         <li><a href="#">nav ul li a</a></li>
