@@ -93,10 +93,10 @@ html {
   background-size: cover;
 }
 a {
-  color: #aaf;
+  color: #ccf;
 }
 a:visited {
-  color: #eef;
+  color: white;
 }
 h1 {
   font-family: 'alex_brushregular';
