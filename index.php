@@ -20,14 +20,11 @@
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
 
-        <div class="header-container">
-            <header class="wrapper clearfix">
-                <h1 class="title">Laurent Cottereau</h1>
-            </header>
-        </div>
-
-        <div class="main-container">
-            <div class="main wrapper clearfix">
+        <div id="main-container">
+            <div id="main" class="wrapper clearfix">
+                <header>
+                    <h1>Laurent Cottereau</h1>
+                </header>
 
                 <article>
                   <p>
@@ -63,19 +60,18 @@
         </div> <!-- #main-container -->
 
         <div class="footer-container">
-            <footer class="wrapper">
+            <footer>
 
 
               <p id="copyleft">
                 <!-- Contrat Creative Commons -->
                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">
-                <img alt="Contrat Creative Commons" src="http://creativecommons.org/images/public/somerights20.png" />
-                </a>
-                Sauf mention contraire, tout le contenu de ce site est la propriété de <a href="mailto:laurent@cottereau.name" accesskey="7">Laurent Cottereau</a>
-                et est mis &agrave; disposition sous un
+                <img alt="Contrat Creative Commons" src="http://creativecommons.org/images/public/somerights20.png" /></a>
+                Sauf mention contraire, le contenu de ce site est la propriété de <a href="mailto:laurent@cottereau.name" accesskey="7">Laurent Cottereau</a>
+                et est mis &agrave; disposition sous
                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">contrat Creative Commons</a>.
                 La photo de fond est la propriété de <a href="http://www.linkedin.com/in/florentmathe">F. Mathé</a>.
-                Les documents cités et les documents liés peuvent être soumis au droit d'auteur.
+                Les documents cités ou liés peuvent être soumis au droit d'auteur.
                 <!-- /Contrat Creative Commons -->
 
 
