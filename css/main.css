@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'alex_brushregular';
+    src: url('fonts/alexbrush-regular-otf-webfont.eot');
+    src: url('fonts/alexbrush-regular-otf-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/alexbrush-regular-otf-webfont.woff') format('woff'),
+         url('fonts/alexbrush-regular-otf-webfont.ttf') format('truetype'),
+         url('fonts/alexbrush-regular-otf-webfont.svg#alex_brushregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
     font-size: 1em;
     line-height: 1.4;
@@ -73,6 +85,12 @@ footer {
 
 
 
+h1 {
+  font-family: 'alex_brushregular';
+  font-size: 6em;
+  font-weight: normal;
+  margin: 0;
+}
 
 
 
