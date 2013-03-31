@@ -23,13 +23,6 @@
         <div class="header-container">
             <header class="wrapper clearfix">
                 <h1 class="title">Laurent Cottereau</h1>
-                <nav>
-                    <ul>
-                        <li><a href="#">nav ul li a</a></li>
-                        <li><a href="#">nav ul li a</a></li>
-                        <li><a href="#">nav ul li a</a></li>
-                    </ul>
-                </nav>
             </header>
         </div>
 
@@ -51,6 +44,20 @@
                     de trouver le temps de jouer un peu de mon <a href="http://www.association-irlandaise.org/">tin-whistle</a>.
                   </p>
                 </article>
+
+
+                <nav>
+                    <ul>
+                        <li><a href="http://www.linkedin.com/in/lcottereau/fr">CV</a></li>
+                        <li><a href="https://github.com/lcottereau">Code</a></li>
+                        <li><a href="http://laurent.cottereau.name/blog/">Blog</a></li>
+                        <li><a href="https://twitter.com/lcottereau">Microblog</a></li>
+                        <li><a href="http://500px.com/lcottereau">Photos</a></li>
+                        <li><a href="http://www.shareyouradventure.com/user/profile/lcottereau">Randonnée</a></li>
+                        <li><a href="https://www.librarything.com/home/lcottereau">Lectures</a></li>
+                        <li><a href="http://www.lastfm.fr/user/lcottereau">Musique</a></li>
+                    </ul>
+                </nav>
 
             </div> <!-- #main -->
         </div> <!-- #main-container -->
