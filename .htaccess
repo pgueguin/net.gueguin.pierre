@@ -541,6 +541,10 @@ AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 
 # Les différentes redirections
 Redirect temp /feed/books https://www.librarything.com/rss/reviews/lcottereau
-Redirect temp /blog/ http://blog.laurent.cottereau.name/
+Redirect temp /feed/recent http://blog.laurent.cottereau.name/feed/atom
+Redirect temp /feed/photos http://500px.com/lcottereau/rss
+Redirect temp /feed/suggestions https://bitly.com/u/lcottereau.rss
+
+Redirect perm /blog http://blog.laurent.cottereau.name/
 
 
