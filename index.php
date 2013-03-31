@@ -62,6 +62,59 @@
             </div> <!-- #main -->
         </div> <!-- #main-container -->
 
+        <div class="footer-container">
+            <footer class="wrapper">
+
+
+              <p id="copyleft">
+                <!-- Contrat Creative Commons -->
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">
+                <img alt="Contrat Creative Commons" src="http://creativecommons.org/images/public/somerights20.png" />
+                </a>
+                Sauf mention contraire, tout le contenu de ce site est la propriété de <a href="mailto:laurent@cottereau.name" accesskey="7">Laurent Cottereau</a>
+                et est mis &agrave; disposition sous un
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">contrat Creative Commons</a>.
+                La photo de fond est la propriété de <a href="http://www.linkedin.com/in/florentmathe">F. Mathé</a>.
+                Les documents cités et les documents liés peuvent être soumis au droit d'auteur.
+                <!-- /Contrat Creative Commons -->
+
+
+                <!--
+                <rdf:RDF xmlns="http://web.resource.org/cc/"
+                      xmlns:dc="http://purl.org/dc/elements/1.1/"
+                      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                  <Work rdf:about="">
+                     <dc:title>Clarky's Corner</dc:title>
+                     <dc:date>2005</dc:date>
+                     <dc:creator>
+                      <Agent>
+                         <dc:title>Laurent Cottereau</dc:title>
+                      </Agent>
+                     </dc:creator>
+                     <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/" />
+                  </Work>
+
+                  <License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">
+                     <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+                     <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+                     <requires rdf:resource="http://web.resource.org/cc/Notice" />
+                     <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+                     <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
+                     <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+                     <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+                  </License>
+
+                </rdf:RDF>
+
+                -->
+
+
+
+                <p>Ma clé <a hreflang="en" href="http://www.gnupg.org/">GnuPG</a>
+                [<a href="/lcottereau_key.asc" title="Clé GnuPG de Laurent Cottereau">1024D/F616F688</a>@<a hreflang="en" href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x52E64D41F616F688">pgp.mit.edu</a>]
+            </footer>
+        </div>
+
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
 
