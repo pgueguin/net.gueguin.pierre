@@ -39,8 +39,8 @@
                 <article>
                   <p>
                     Je suis un <a href="http://www.linkedin.com/in/lcottereau/fr" title="CV en ligne de Laurent Cottereau">artisan du logiciel web et agile</a>.
-                    Je m'intéresse à tous les aspects techniques d'une application web en particulier J2EE, les CSS, l'accessibilité et
-                    les outils ou techniques aidant à l'industrialisation de la
+                    Je m'intéresse à tous les aspects techniques d'une application web. J'ai par ailleurs une expertise particulière en J2EE, CSS, accessibilité web
+                    et sur les outils ou techniques aidant à l'industrialisation de la
                     <a href="http://manifesto.softwarecraftsmanship.org/#/fr-fr" title="Manifeste pour l'artisanat du logiciel">qualité applicative</a>.
                   </p>
 
