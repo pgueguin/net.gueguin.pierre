@@ -64,6 +64,9 @@ textarea {
   border-radius: 20px;
   padding: 20px;
   background-color: rgba(0, 0, 0, 0.5);
+  width: 50%;
+  margin-left: 35%;
+  margin-top: 2em;
 }
 footer {
   font-size: 60%;
@@ -82,9 +85,19 @@ footer {
 #copyleft {
   margin: 5px;
 }
-
-
-
+html {
+  background: url('/img/lcottereau_irlande.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a {
+  color: #aaf;
+}
+a:visited {
+  color: #eef;
+}
 h1 {
   font-family: 'alex_brushregular';
   font-size: 6em;
