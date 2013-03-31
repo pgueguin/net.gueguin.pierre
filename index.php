@@ -50,7 +50,7 @@
                         <li><a href="http://laurent.cottereau.name/blog/"><img src="img/link-blog.png" alt="Blog"/></a></li>
                         <li><a href="https://twitter.com/lcottereau"><img src="img/link-twitter.png" alt="Microblog sur Twitter"/></a></li>
                         <li><a href="http://500px.com/lcottereau"><img src="img/link-photos.png" alt="Photoblog sur 500px"/></a></li>
-                        <li><a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau"><img src="img/link-hiking.png" alt="Randonnées sur ShareYourAdventure"/></a></li>
+                        <li><a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau"><img src="img/link-hiking.png" alt="Randonnées sur Social Hiking"/></a></li>
                         <li><a hreflang="en" href="https://www.librarything.com/home/lcottereau"><img src="img/link-books.png" alt="Lectures sur LibraryThing"/></a></li>
                         <li><a href="http://www.lastfm.fr/user/lcottereau"><img src="img/link-music.png" alt="Musique sur LastFm"/></a></li>
                     </ul>
