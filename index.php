@@ -5,6 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
+
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Laurent Cottereau</title>
         <meta name="description" content="Page personnelle de Laurent Cottereau">
@@ -12,6 +13,9 @@
 
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
+
+        <link rel="openid.server" href="http://openid.claimid.com/server" />
+        <link rel="openid.delegate" href="http://openid.claimid.com/lcottereau" />
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
