@@ -545,6 +545,8 @@ Redirect temp /feed/recent http://blog.laurent.cottereau.name/feed/atom
 Redirect temp /feed/photos http://500px.com/lcottereau/rss
 Redirect temp /feed/suggestions https://bitly.com/u/lcottereau.rss
 
-Redirect permanent /blog http://blog.laurent.cottereau.name/
+RedirectMatch permanent ^/blog/index.php?(.*) http://blog.laurent.cottereau.name/post/$1
+RedirectMatch permanent ^/blog(.*) http://blog.laurent.cottereau.name$1
+
 
 
