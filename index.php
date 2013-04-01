@@ -45,14 +45,14 @@
 
                 <nav>
                     <ul>
-                        <li><a href="http://www.linkedin.com/in/lcottereau/fr"><img src="img/link-linkedin.png" alt="CV sur LinkedIn"/></a></li>
-                        <li><a hreflang="en" href="https://github.com/lcottereau"><img src="img/link-github.png" alt="Code sur GitHub"/></a></li>
-                        <li><a href="http://laurent.cottereau.name/blog/"><img src="img/link-blog.png" alt="Blog"/></a></li>
-                        <li><a href="https://twitter.com/lcottereau"><img src="img/link-twitter.png" alt="Microblog sur Twitter"/></a></li>
-                        <li><a href="http://500px.com/lcottereau"><img src="img/link-photos.png" alt="Photoblog sur 500px"/></a></li>
-                        <li><a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau"><img src="img/link-hiking.png" alt="Randonnées sur Social Hiking"/></a></li>
-                        <li><a hreflang="en" href="https://www.librarything.com/home/lcottereau"><img src="img/link-books.png" alt="Lectures sur LibraryThing"/></a></li>
-                        <li><a href="http://www.lastfm.fr/user/lcottereau"><img src="img/link-music.png" alt="Musique sur LastFm"/></a></li>
+                        <li><a href="http://www.linkedin.com/in/lcottereau/fr" title="Mon CV sur LinkedIn"><img src="img/link-linkedin.png" alt="CV"/></a></li>
+                        <li><a hreflang="en" href="https://github.com/lcottereau" title="Mon code sur GitHub"><img src="img/link-github.png" alt="Développement"/></a></li>
+                        <li><a href="http://laurent.cottereau.name/blog/" title="Mes écrits sur Dotclear"><img src="img/link-blog.png" alt="Blog"/></a></li>
+                        <li><a href="https://twitter.com/lcottereau" title="Mes divagations sur Twitter"><img src="img/link-twitter.png" alt="Microblog"/></a></li>
+                        <li><a href="http://500px.com/lcottereau" title="Une sélection de mes photos sur 500px"><img src="img/link-photos.png" alt="Photoblog"/></a></li>
+                        <li><a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau" title="Mes randonnées sur Social Hiking"><img src="img/link-hiking.png" alt="Randonnées"/></a></li>
+                        <li><a hreflang="en" href="https://www.librarything.com/home/lcottereau" title="Mes lectures sur LibraryThing"><img src="img/link-books.png" alt="Lectures"/></a></li>
+                        <li><a href="http://www.lastfm.fr/user/lcottereau" title="La musique que j'écoute sur Lastfm"><img src="img/link-music.png" alt="Musique"/></a></li>
                     </ul>
                 </nav>
 
