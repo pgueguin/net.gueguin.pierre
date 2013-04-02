@@ -42,8 +42,9 @@
 
                   <p>
                     Quand je ne suis pas derrière un écran, je passe beaucoup de temps sur les terrains de rugby du
-                    <a href="http://scufrugby.over-blog.com/"><acronym title="Sporting Club Universitaire de France">SCUF</acronym></a> ou sur
-                    <a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau">un chemin de randonnée</a>. J'essaie (avec plus ou moins de réussite)
+                    <a href="http://scufrugby.over-blog.com/"><acronym title="Sporting Club Universitaire de France">SCUF</acronym></a> ou du 
+		    <a href="http://www.xvparlementaire.fr">XV Parlementaire</a>, ou encore sur
+                    <a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau">des chemins de randonnée</a>. J'essaie (avec plus ou moins de réussite)
                     de trouver le temps de jouer un peu de mon <a href="http://www.association-irlandaise.org/">tin-whistle</a>.
                   </p>
                 </article>
