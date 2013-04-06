@@ -548,5 +548,5 @@ Redirect temp /feed/suggestions https://bitly.com/u/lcottereau.rss
 RedirectMatch permanent ^/blog/index.php?(.*) http://blog.laurent.cottereau.name/post/$1
 RedirectMatch permanent ^/blog(.*) http://blog.laurent.cottereau.name$1
 
-Redirect temp ^/books/([^/]*) https://dl.dropbox.com/u/398817/livres/$1/_catalog/index.html
+RedirectMatch temp ^/books/([^/]*) https://dl.dropbox.com/u/398817/livres/$1/_catalog/index.html
 
