@@ -42,10 +42,17 @@
 
                   <p>
                     Quand je ne suis pas derrière un écran, je passe beaucoup de temps sur les terrains de rugby du
-                    <a href="http://scufrugby.over-blog.com/"><acronym title="Sporting Club Universitaire de France">SCUF</acronym></a> ou du 
+                    <a href="http://scufrugby.over-blog.com/"><acronym title="Sporting Club Universitaire de France">SCUF</acronym></a> ou du
 		    <a href="http://www.xvparlementaire.fr">XV Parlementaire</a>, ou encore sur
                     <a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau">des chemins de randonnée</a>. J'essaie (avec plus ou moins de réussite)
                     de trouver le temps de jouer un peu de mon <a href="http://www.association-irlandaise.org/">tin-whistle</a>.
+                  </p>
+
+                  <p>
+                    Vous pouvez me contacter par mail ou jabber sur <code><a href="mailto:laurent@cottereau.name">laurent@cottereau.name</a></code>.
+                    N'hésitez pas à utiliser ma clé <a hreflang="en" href="http://www.gnupg.org/">GnuPG</a>
+                    [<a href="/lcottereau_key.asc" title="Clé GnuPG de Laurent Cottereau">1024D/F616F688</a>@<a hreflang="en" href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x52E64D41F616F688">pgp.mit.edu</a>].
+                    Vous pouvez aussi me suivre sur les réseaux sociaux.
                   </p>
                 </article>
 
@@ -71,13 +78,10 @@
 
 
               <p id="copyleft">
-                <!-- Contrat Creative Commons -->
-                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">
-                <img alt="Contrat Creative Commons" src="http://creativecommons.org/images/public/somerights20.png" /></a>
-                Sauf mention contraire, le contenu de ce site est la propriété de <a href="mailto:laurent@cottereau.name" accesskey="7">Laurent Cottereau</a>
+                Sauf <a href="https://github.com/lcottereau/name.cottereau.laurent#crdits">mention contraire</a>,
+                le contenu de ce site est la propriété de <a href="mailto:laurent@cottereau.name" accesskey="7">Laurent Cottereau</a>
                 et est mis &agrave; disposition sous
-                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">contrat Creative Commons</a>.
-                La photo de fond est la propriété de <a href="http://www.linkedin.com/in/florentmathe">F. Mathé</a>.
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">contrat Creative Commons BY-NC-SA</a>.
                 Les documents cités ou liés peuvent être soumis au droit d'auteur.
                 <!-- /Contrat Creative Commons -->
 
@@ -113,8 +117,7 @@
 
 
 
-                <p>Ma clé <a hreflang="en" href="http://www.gnupg.org/">GnuPG</a>
-                [<a href="/lcottereau_key.asc" title="Clé GnuPG de Laurent Cottereau">1024D/F616F688</a>@<a hreflang="en" href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x52E64D41F616F688">pgp.mit.edu</a>]
+
             </footer>
         </div>
 
