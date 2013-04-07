@@ -23,3 +23,4 @@ fonctionnalités sont incluses :
 * FontSquirrel pour la [fonte Alex Brush](http://www.fontsquirrel.com/fonts/alex-brush)
 * [Simple Icons](http://simpleicons.org/) pour la majeure partie des icônes
 * [Iconifier](http://iconifier.net/) pour la création des `favicon`
+* [DataUrl](http://dataurl.net/#dataurlmaker) pour les images en ligne pour les pages d'erreur et de maintenance.
