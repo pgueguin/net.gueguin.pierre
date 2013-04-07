@@ -7,7 +7,7 @@
         <meta charset="utf-8">
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Laurent Cottereau</title>
+        <title>Laurent Cottereau &ndash; Clarky's Corner</title>
         <meta name="description" content="Page personnelle de Laurent Cottereau">
         <meta name="viewport" content="width=device-width">
 
