@@ -45,7 +45,8 @@
                     <a href="http://scufrugby.over-blog.com/"><acronym title="Sporting Club Universitaire de France">SCUF</acronym></a> ou du
 		    <a href="http://www.xvparlementaire.fr">XV Parlementaire</a>, ou encore sur
                     <a hreflang="en" href="http://www.shareyouradventure.com/user/profile/lcottereau">des chemins de randonnée</a>. J'essaie (avec plus ou moins de réussite)
-                    de trouver le temps de jouer un peu de mon <a href="http://www.association-irlandaise.org/">tin-whistle</a>.
+                    de trouver le temps de jouer un peu de mon <a href="http://www.association-irlandaise.org/">tin-whistle</a> ou d'écrire un peu
+		    dans <a href="/blog">mon blog</a>.
                   </p>
 
                   <p>
