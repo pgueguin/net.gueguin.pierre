@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" href="/css/normalize.min.css">
         <link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="/css/pygments.css">
 
         <link rel="openid.server" href="http://openid.claimid.com/server" />
         <link rel="openid.delegate" href="http://openid.claimid.com/lcottereau" />
