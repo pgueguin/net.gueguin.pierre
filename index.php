@@ -52,7 +52,8 @@
                   <p>
                     Vous pouvez me contacter par mail ou jabber sur <code><a href="mailto:laurent@cottereau.name">laurent@cottereau.name</a></code>.
                     N'hésitez pas à utiliser ma clé <a hreflang="en" href="http://www.gnupg.org/">GnuPG</a>
-                    [<a href="/lcottereau_key.asc" title="Clé GnuPG de Laurent Cottereau">1024D/F616F688</a>@<a hreflang="en" href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x52E64D41F616F688">pgp.mit.edu</a>].
+                    [<a href="/lcottereau_key.asc" title="Clé GnuPG de Laurent Cottereau">1024D/F616F688</a>@<a hreflang="en" 
+                    href="http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x52E64D41F616F688" title="Clé GnuPG (signée) de Laurent Cottereau sur le serveur du MIT">pgp.mit.edu</a>].
                     Vous pouvez aussi me suivre sur les réseaux sociaux.
                   </p>
                 </article>
