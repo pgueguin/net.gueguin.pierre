@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="fr"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="fr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }} &ndash; {{ site.title }}</title>
+        <meta name="description" content="Page personnelle de {{ site.author.name }}">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="/css/normalize.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/pygments.css">
+
+        <link rel="openid.server" href="http://openid.claimid.com/server" />
+        <link rel="openid.delegate" href="{{ site.author.openid }}" />
+
+        <link rel="pavatar" href="{{ site.author.avatar }}" />
+
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div id="main-container">
+            <div id="main" class="wrapper clearfix">
+                <header>
+                    <h1>{{ page.title }}</h1>
+                </header>
+
+{{ content }}
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer>
+
+
+              <p id="copyleft">
+                Sauf <a href="https://github.com/lcottereau/name.cottereau.laurent#crdits">mention contraire</a>,
+                le contenu de ce site est la propriété de <a href="mailto:{{ site.author.email }}" accesskey="7">{{ site.author.name }}</a>
+                et est mis &agrave; disposition sous
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">contrat Creative Commons BY-NC-SA</a>.
+                Les documents cités ou liés peuvent être soumis au droit d'auteur.
+                <!-- /Contrat Creative Commons -->
+
+
+                <!--
+                <rdf:RDF xmlns="http://web.resource.org/cc/"
+                      xmlns:dc="http://purl.org/dc/elements/1.1/"
+                      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                  <Work rdf:about="">
+                     <dc:title>{{ site.title }}</dc:title>
+                     <dc:date>2005</dc:date>
+                     <dc:creator>
+                      <Agent>
+                         <dc:title>{{ site.author.name }}</dc:title>
+                      </Agent>
+                     </dc:creator>
+                     <license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/" />
+                  </Work>
+
+                  <License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/fr/">
+                     <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+                     <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+                     <requires rdf:resource="http://web.resource.org/cc/Notice" />
+                     <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+                     <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
+                     <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+                     <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+                  </License>
+
+                </rdf:RDF>
+
+                -->
+
+
+
+
+            </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+
+        <script src="js/main.js"></script>
+    </body>
+</html>
+
