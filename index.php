@@ -18,7 +18,7 @@
         <link rel="openid.server" href="http://openid.claimid.com/server" />
         <link rel="openid.delegate" href="http://openid.claimid.com/lcottereau" />
 
-        <? $files = glob("img/avatar/??.jpg"); ?><link rel="pavatar" href="/<?= $files[rand(0, sizeof($files))] ?>" />
+        <link rel="pavatar" href="/img/avatar/09.jpg" />
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
