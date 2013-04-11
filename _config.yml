@@ -4,7 +4,8 @@ author :
   email : laurent@cottereau.name
   avatar : /img/avatar/09.jpg
   openid : http://openid.claimid.com/lcottereau
-permalink: /:categories/:year/:month/:day/:title 
+lsi : true
+permalink: date
 production_url : http://laurent.cottereau.name
 pygments: true
 title : Clarky's Corner
