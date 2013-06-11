@@ -152,6 +152,8 @@ nav a:hover img {
   }
   h1 {
     font-size: 5em;
+    margin-left: 10%;
+    margin-right: 10%;
   }
   #main {
     border-radius: 0;
