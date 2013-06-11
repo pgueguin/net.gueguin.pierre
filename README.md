@@ -24,3 +24,4 @@ fonctionnalités sont incluses :
 * [Simple Icons](http://simpleicons.org/) pour la majeure partie des icônes
 * [Iconifier](http://iconifier.net/) pour la création des `favicon`
 * [DataUrl](http://dataurl.net/#dataurlmaker) pour les images en ligne pour les pages d'erreur et de maintenance.
+* [CloudFlare](https://www.cloudflare.com/) pour la sécurisation et l'accélération du site
