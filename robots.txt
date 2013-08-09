@@ -2,4 +2,3 @@
 
 User-agent: *
 Disallow: /img
-Disallow: /_layouts
