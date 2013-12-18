@@ -5,7 +5,7 @@ C'est une page unique au design reactif inspiré par [about.me](http://about.me)
 ajoute des liens vers des sites externes pour un certain nombre d'intérêts. Par ailleurs, un certain nombre de
 fonctionnalités sont incluses :
 
-* gestion des [avatar personnels](http://pavatar.com/) avec une rotation automatique
+* gestion des [avatar personnels](http://pavatar.com/)
 * gestion de la [redirection OpenId](https://openid.net/)
 * gestion de redirections dans le `.htaccess`, en particulier des URLs génériques de flux
     * [Lectures](http://laurent.cottereau.name/feed/books)
