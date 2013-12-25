@@ -1,7 +1,7 @@
 Site Perso de Laurent Cottereau
 ======================
 
-C'est une page unique au design reactif inspiré par [about.me](http://about.me) qui inclue une description rapide et 
+C'est une page unique, visible sur http://laurent.cottereau.name, au design reactif inspiré par [about.me](http://about.me) qui inclue une description rapide et 
 ajoute des liens vers des sites externes pour un certain nombre d'intérêts. Par ailleurs, un certain nombre de
 fonctionnalités sont incluses :
 
