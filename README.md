@@ -1,5 +1,7 @@
-Site Perso de Laurent Cottereau
+Site Perso de Pierre Guéguin
 ======================
+
+Ceci est le site personnel de Pierre Guéguin, bifurqué depuis celui de Laurent Cottereau (https://github.com/lcottereau/name.cottereau.laurent)
 
 C'est une page unique, visible sur http://laurent.cottereau.name, au design reactif inspiré par [about.me](http://about.me) qui inclue une description rapide et 
 ajoute des liens vers des sites externes pour un certain nombre d'intérêts. Par ailleurs, un certain nombre de
@@ -19,7 +21,7 @@ fonctionnalités sont incluses :
 * [HTML 5 Boilerplate v4.1.0](http://html5boilerplate.com/), [Modernizr v2.6.2](http://modernizr.com/), 
   [jQuery v1.9.1](http://jquery.com/) packagé par [Initializr](http://www.initializr.com/)
 * [Jekyll](https://github.com/jekyll/jekyll) pour le système de templating
-* [Heroku](https://www.heroku.com/) pour l'hébergement
+* [OVH](https://www.ovh.com/) pour l'hébergement
 * [Florent Mathé](http://www.linkedin.com/in/florentmathe) pour l'image de fond
 * FontSquirrel pour la [fonte Alex Brush](http://www.fontsquirrel.com/fonts/alex-brush)
 * [Simple Icons](http://simpleicons.org/) pour la majeure partie des icônes
