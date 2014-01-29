@@ -1,12 +1,12 @@
 # Fichier de configuration jekyll
 author :
-  name : Laurent Cottereau
-  email : laurent@cottereau.name
+  name : Pierre Guéguin
+  email : pierre@gueguin.net
   avatar : /img/avatar/09.jpg
-  openid : http://openid.claimid.com/lcottereau
+  openid : http://openid.claimid.com/pgueguin
 lsi : true
 permalink: date
-production_url : http://laurent.cottereau.name
+production_url : http://pierre.gueguin.net
 pygments: true
-title : Clarky's Corner
+title : Pierre Guéguin page
   
